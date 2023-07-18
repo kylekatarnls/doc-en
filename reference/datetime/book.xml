@@ -52,6 +52,8 @@
  &reference.datetime.datetimezone;
  &reference.datetime.dateinterval;
  &reference.datetime.dateperiod;
+
+ &reference.datetime.dateerror;
  
  &reference.datetime.reference;
  &reference.datetime.formats;
